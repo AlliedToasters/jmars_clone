@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Location-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Link-Styles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Location-arrow" transform="translate(1.000000, 1.000000)">
+            <g id="location-arrow" transform="translate(3.500000, 4.500000)" fill="#878787" fill-rule="nonzero">
+                <path d="M10.418321,0.582465781 L0.673443512,5.08006633 C-0.45085725,5.60482545 -0.0760903295,7.25386753 1.12321069,7.25386753 L5.24611557,7.25386753 L5.24611557,11.3767071 C5.24611557,12.5759891 6.89518378,12.9509845 7.41995121,11.8264671 L11.917623,2.08174409 C12.2923899,1.18198961 11.3178553,0.207470426 10.418321,0.582465781 Z" id="Path"></path>
+            </g>
+            <circle id="Oval" stroke="#979797" stroke-width="2" cx="10.5" cy="10.5" r="10.5"></circle>
+        </g>
+    </g>
+</svg>
